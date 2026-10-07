@@ -26,6 +26,7 @@
     <div id="ar-container"></div>
 
     <script src="script.js"></script>
+    
 </body>
 </html>
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
@@ -143,6 +144,7 @@ document.addEventListener('DOMContentLoaded', () => {
             </a-scene>
         `;
     });
+    
 });# 📸 Web AR Funny Face Filter
 Sebuah website berbasis Augmented Reality (AR) yang ringan dan bisa dijalankan langsung di browser HP maupun Laptop tanpa perlu install aplikasi tambahan. 
 
